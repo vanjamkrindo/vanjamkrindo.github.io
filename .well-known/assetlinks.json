@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.vanjamkrindo.wordweb",
+        "sha256_cert_fingerprints": ["05:CB:1F:37:6E:6F:9C:DE:B0:99:02:89:4C:0C:5A:F2:41:CD:DE:CB:63:8B:A2:10:E9:D7:64:E5:39:12:9D:5B"]
+      }
+    }]
